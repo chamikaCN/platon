@@ -12,11 +12,11 @@ from pathlib import Path
 from Bio import SeqIO
 
 import platon
-import platon.db as db
-import platon.config as cfg
-import platon.constants as pc
-import platon.functions as pf
-import platon.utils as pu
+from platon import db as db
+from platon import config as cfg
+from platon import constants as pc
+from platon import functions as pf
+from platon import utils as pu
 
 
 def main():
