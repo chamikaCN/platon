@@ -12,7 +12,7 @@ from pathlib import Path
 from Bio import SeqIO
 
 import platon
-# import platon.db as db
+import platon.db as db
 import platon.config as cfg
 import platon.constants as pc
 import platon.functions as pf
