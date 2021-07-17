@@ -20,6 +20,8 @@ import platon.utils as pu
 
 
 def main():
+
+    print("Test success")
     # parse arguments
     args = pu.parse_arguments()
 
